@@ -38,5 +38,5 @@ paper_titles = [
 ### 4. Run the Script
 
 ```bash
-python main.py
+python citationGrab.py
 ```
